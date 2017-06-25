@@ -9,6 +9,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Media2013", "Media2013\Medi
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Media2013Fixed", "Media2013Fixed\Media2013Fixed.vbproj", "{1A1973A3-AAE9-437A-BBF7-B5ACF31503CE}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Contract2013", "Contract2013\Contract2013.vbproj", "{CE63BACF-376B-44DA-9914-50D30355E9BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1A1973A3-AAE9-437A-BBF7-B5ACF31503CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A1973A3-AAE9-437A-BBF7-B5ACF31503CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A1973A3-AAE9-437A-BBF7-B5ACF31503CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE63BACF-376B-44DA-9914-50D30355E9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE63BACF-376B-44DA-9914-50D30355E9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE63BACF-376B-44DA-9914-50D30355E9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE63BACF-376B-44DA-9914-50D30355E9BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
